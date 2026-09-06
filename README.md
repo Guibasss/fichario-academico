@@ -6,6 +6,8 @@
 
 Fichário Acadêmico is a research knowledge system created by **Guilherme da Conceição Vasconcelos** to support academic work in Civil Engineering. It processes scholarly papers, extracts structured research information with Claude, verifies quotations programmatically against their source pages, allows human review, and organizes approved results into searchable Notion databases through MCP.
 
+This repository documents the current version of a tool originally developed for my academic workflow in Civil Engineering.
+
 > AI can propose the knowledge. The source document must still be able to prove it.
 
 ## Why I built it
@@ -189,9 +191,9 @@ External AI-provider support is intentionally treated as deployment-specific and
 
 ## Project status
 
-**Portfolio build / active research tool.**
+**Active research tool.**
 
-The architecture is frozen for the current portfolio version. Future work should focus on deployment, observability, and real-world usage metrics rather than adding features for their own sake.
+The current version focuses on reliable literature processing, source traceability, and integration with my academic research workflow. Future work may extend deployment and observability as the tool continues to be used.
 
 ## Author
 
@@ -201,4 +203,4 @@ GitHub: [@Guibasss](https://github.com/Guibasss)
 
 ---
 
-This repository is publicly visible for portfolio and academic demonstration purposes. No open-source license is granted unless a license file is added explicitly.
+No open-source license is granted unless a license file is added explicitly.
